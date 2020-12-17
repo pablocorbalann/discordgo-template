@@ -20,13 +20,13 @@
 </p>
 
 
-### You can invite the bot to your sevrer using [this](bot invite link) link.
+### You can invite the bot to your sevrer using [this](bot-invite-link) link.
 
 ##### For contributing to the bot's code, read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ---
 
-### Table of c(https://git-scm.com/downloads)ontents
+### Table of contents
 - [Idea](#idea)
 - [Commands](#commands)
 - [Compiling from source](#compiling-from-source)
@@ -61,7 +61,7 @@ If you want to compile the bot's code to then run it in a local server, you will
 Then, run open a terminal / cmd and run:
 ###### Clone the repository
 ```shell
-git clone https://github.com/<your github username>/<your bot's repository name>.git
+git clone https://github.com/<github username>/<repository name>.git
 ```
 
 <!--
@@ -72,7 +72,7 @@ git clone https://github.com/<your github username>/<your bot's repository name>
 
 ###### Move inside the repository
 ```shell
-cd <your bot's repository name>/bot
+cd <repository name>/bot
 ```
 ###### Use the Golang tool to build the code
 ```shell
