@@ -80,7 +80,7 @@ go build -o bot
 ```
 ###### Execute the code
 ```shell
-./bot
+./bot -t <bot token>
 ```
 
 ---
