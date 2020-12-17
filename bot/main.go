@@ -36,7 +36,6 @@ func main() {
   bot.Close()
 }
 
-
 func messageCreate(session *discordgo.Session, msg *discordgo.MessageCreate) {
 	if msg.Author.ID == session.State.User.ID {
 		return
